@@ -18,7 +18,7 @@
 
 <!--Introduction with picture-->
 	<table bgcolor="white" width="90%" align="center"><tr>
-	    <td><img src="dominican.jpg" height="150"></td>
+	    <td><img src="dominican.jpg" ></td>
 	    <td><h4><font face="arial" size="4">Hello, world. I am Anaylis, I'm a soon to graduate senior from Bronx Early College academy. One of my favorite hobbies is to work out, i've been on my gym journey since i was 14. But for some reason I've always been on and off, Which is why I haven't reached my goal yet.</font></h4></td>
 	</tr></table><br>
 
