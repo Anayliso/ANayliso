@@ -11,13 +11,13 @@
 			<a href="#about">ABOUT</a>&nbsp;&nbsp;&nbsp;
 			<a href="#experience">EXPERIENCE</a>&nbsp;&nbsp;&nbsp;
 			<a href="#interests">INTERESTS</a>&nbsp;&nbsp;&nbsp;
-			<a href="[URL]">[SOCIAL]</a>&nbsp;&nbsp;&nbsp;
-			<a href="[URL]">LINKEDIN</a>
+			<a href="#social"SOCIAL</a>&nbsp;&nbsp;&nbsp;
+			<a href="#linkedin">LINKEDIN</a>
 	</b></font></h3><br>
 
 <!--Introduction with picture-->
 	<table bgcolor="white" width="90%" align="center"><tr>
-	    <td><img src="mr-pants-with-hat.png" height="150"></td>
+	    <td><img src="dominican" height="150"></td>
 	    <td><h4><font face="arial" size="4">Hello, world. I am Anaylis, I'm a soon to graduate senior from Bronx Early College academy. One of my favorite hobbies is to work out, i've been on my gym journey since i was 14. But for some reason I've always been on and off, Which is why I haven't reached my goal yet.</font></h4></td>
 	</tr></table><br>
 
@@ -36,9 +36,9 @@
 	<font face="helvetica" color="black" size="3">
 		<ul>
 		    <li>My work experience includes... []</li>
-		    <li>My volunteer experience includes... []</li>
-		    <li>My soft skills include... []</li>
-		    <li>My hard skills include... []</li>    
+		    <li>My volunteer experience includes Gods Love We deliver, Community clean up, and Community involvement in school. []</li>
+		    <li>My soft skills include communication, time management, and teamwork. []</li>
+		    <li>My hard skills include computer skills in github, spreadsheets, and google slides.</li>    
 		</ul>
 	</font><br>
 	
@@ -55,13 +55,13 @@
 			Visual Design Portfolio
 	</font></h1>
    	<table width="90%" align="center"><tr>
-		<td align="center"><a href="1.jpg"><img src="1.jpg" height="250"></a></td>
-   		<td align="center"><a href="2.jpg"><img src="2.jpg" height="250"></a></td>
-		<td align="center"><a href="3.jpg"><img src="3.jpg" height="250"></a></td>
+		<td align="center"><a href="holloween.png"><img src="holloween.png" ></a></td>
+   		<td align="center"><a href="palestine.pdf"><img src="palestine.pdf" ></a></td>
+		<td align="center"><a href="vibe.png"><img src="vibe.png" ></a></td>
    	</tr><tr>
-   		<td>[Piece 1: With this piece I attempted to capture the essence of penguins. I am most proud of this piece because I believe the asymmetry speaks to the collapse of a capitalistic worldview.]</td>
-   		<td>[Piece 2: In this piece I tried to capture the pure opposite of penguin-ness. The design was especially challenging here because representing objects along a four-dimensional plane proved to require more string theory than I had originally hoped.]</td>
-   		<td>[Piece 3: This piece was inspired by the Oregon Trail during a zombie apocalypse. In the multiplicity of materials used, I tried to symbolize the lingering interposition of the Freudian superego along Jungian archetypes throughout Viennese architecture.]</td>
+   		<td>Piece 1:In this piece of art I was inspired by my favorite holiday which is holloween. I used an art software to make a surreal, dark and vibrant piece of art with an abstract appeal.</td>
+   		<td>Piece 2:In this piece I wanted to make something with political significance showing the current suffering happpening in Palestine during these times of war. I used multiple images and collaged them together.</td>
+   		<td>Piece 3: In this piece I put together a bunch of images that represent my type of "vibe" that I love. This is a collage of things that represent who I am but also provide some type of comfort.</td>
    	</tr></table><br>
 
 <!--Link to the top-->
