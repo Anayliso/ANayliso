@@ -57,7 +57,7 @@
 	</font></h1>
    	<table width="90%" align="center"><tr>
 		<td align="center"><a href="holloween.png"><img src="holloween.png" ></a></td>
-   		<td align="center"><a href="palestine.jpg"><img src="palestine.pdf" ></a></td>
+   		<td align="center"><a href="palestine.jpeg"><img src="palestine.jpeg" ></a></td>
 		<td align="center"><a href="vibe.png"><img src="vibe.png" ></a></td>
    	</tr><tr>
    		<td>Piece 1:In this piece of art I was inspired by my favorite holiday which is holloween. I used an art software to make a surreal, dark and vibrant piece of art with an abstract appeal.</td>
