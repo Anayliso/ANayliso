@@ -8,16 +8,17 @@
 
 <!--Links at the top-->	
 	<h3 id="top" align="center"><font face="courier" size="4"><b>
-			<a href="#about">ABOUT</a>&nbsp;&nbsp;&nbsp;
-			<a href="#experience">EXPERIENCE</a>&nbsp;&nbsp;&nbsp;
-			<a href="#interests">INTERESTS</a>&nbsp;&nbsp;&nbsp;
-			<a href="#social"SOCIAL</a>&nbsp;&nbsp;&nbsp;
+			<a href="#about">ABOUT</a>
+			<a href="#experience">EXPERIENCE</a>
+			<a href="#interests">INTERESTS</a>
+			<a href="#social">SOCIAL</a>
 			<a href="#linkedin">LINKEDIN</a>
+                       <a href="#porfolio">PORFOLIO</a>
 	</b></font></h3><br>
 
 <!--Introduction with picture-->
 	<table bgcolor="white" width="90%" align="center"><tr>
-	    <td><img src="dominican" height="150"></td>
+	    <td><img src="dominican.jpg" height="150"></td>
 	    <td><h4><font face="arial" size="4">Hello, world. I am Anaylis, I'm a soon to graduate senior from Bronx Early College academy. One of my favorite hobbies is to work out, i've been on my gym journey since i was 14. But for some reason I've always been on and off, Which is why I haven't reached my goal yet.</font></h4></td>
 	</tr></table><br>
 
@@ -36,7 +37,7 @@
 	<font face="helvetica" color="black" size="3">
 		<ul>
 		    <li>My work experience includes... []</li>
-		    <li>My volunteer experience includes Gods Love We deliver, Community clean up, and Community involvement in school. []</li>
+		    <li>My volunteer experience includes Gods Love We deliver, Community clean up, and English Tutoring. []</li>
 		    <li>My soft skills include communication, time management, and teamwork. []</li>
 		    <li>My hard skills include computer skills in github, spreadsheets, and google slides.</li>    
 		</ul>
