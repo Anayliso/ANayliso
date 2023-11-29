@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>[Anaylis Ortega]</title>
 </head>
-<body  bgcolor="lightpurple" link="light blue" alink="light blue" vlink="light blue">
+<body  bgcolor="lavender" link="light blue" alink="light blue" vlink="light blue">
 
 <!--Links at the top-->	
 	<h3 id="top" align="center"><font face="courier" size="4"><b>
