@@ -11,9 +11,9 @@
 			<a href="#about">ABOUT</a>
 			<a href="#experience">EXPERIENCE</a>
 			<a href="#interests">INTERESTS</a>
-			<a href="#social">SOCIAL</a>
-			<a href="#linkedin">LINKEDIN</a>
-                       <a href="#porfolio">PORFOLIO</a>
+
+			<a href="www.linkedin.com/in/anaylis-ortega-lora-14b06327b">LINKEDIN</a>
+                       <a href="#portfolio">PORFOLIO</a>
 	</b></font></h3><br>
 
 <!--Introduction with picture-->
@@ -27,7 +27,7 @@
 		About Me
 	</font></h1>
 	<font face="helvetica" color="black" size="3">
-		It aint no secret that I am a  gym rat. I have been focusing a lot on my gym core lately but the only thing that throws me off is the eating. Due to that you have to be on a balanced diet or at least good enough to burn them down at each workout section. In my case I have a trainer that helps me out a lot but however no matter how hard he tries to help me, I know that it depends on me to be accountable on my own.  
+		It's not a secret that I am a  gym rat. I have been focusing a lot on my gym core lately but the only thing that throws me off is the eating. Due to that you have to be on a balanced diet or at least good enough to burn them down at each workout section. In my case I have a trainer that helps me out a lot but however no matter how hard he tries to help me, I know that it depends on me to be accountable on my own.  
 	</font><br><br><br>
 
 <!--My Experience-->
