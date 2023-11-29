@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>[Anaylis Ortega]</title>
+	<title>Anaylis Ortega</title>
 </head>
-<body  bgcolor="lavender" link="light blue" alink="light blue" vlink="light blue">
+<body  bgcolor="pink" link="light blue" alink="light blue" vlink="light blue">
 
 <!--Links at the top-->	
 	<h3 id="top" align="center"><font face="courier" size="4"><b>
@@ -36,7 +36,7 @@
 	</font></h1>
 	<font face="helvetica" color="black" size="3">
 		<ul>
-		    <li>My work experience includes GYM Trainer Assistant</li>
+		    <li>My work experience includes Gym Trainer Assistant</li>
 		    <li>My volunteer experience includes Gods Love We deliver, Community clean up, and English Tutoring.</li>
 		    <li>My soft skills include communication, time management, and teamwork. </li>
 		    <li>My hard skills include computer skills in github, spreadsheets, and google slides.</li>    
