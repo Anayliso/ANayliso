@@ -60,8 +60,8 @@
    		<td align="center"><a href="palestine.jpeg"><img src="palestine.jpeg" ></a></td>
 		<td align="center"><a href="vibe.png"><img src="vibe.png" ></a></td>
    	</tr><tr>
-   		<td>Piece 1:In this piece of art I was inspired by my favorite holiday which is holloween. I used an art software to make a surreal, dark and vibrant piece of art with an abstract appeal.</td>
-   		<td>Piece 2:In this piece I wanted to make something with political significance showing the current suffering happpening in Palestine during these times of war. I used multiple images and collaged them together.</td>
+   		<td>Piece 1: In this piece of art I was inspired by my favorite holiday which is holloween. I used an art software to make a surreal, dark and vibrant piece of art with an abstract appeal.</td>
+   		<td>Piece 2: In this piece I wanted to make something with political significance showing the current suffering happpening in Palestine during these times of war. I used multiple images and collaged them together.</td>
    		<td>Piece 3: In this piece I put together a bunch of images that represent my type of "vibe" that I love. This is a collage of things that represent who I am but also provide some type of comfort.</td>
    	</tr></table><br>
 
