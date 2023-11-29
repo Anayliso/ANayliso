@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>[Anaylis Ortega]</title>
 </head>
-<body background="1.jpg" bgcolor="white" link="light blue" alink="light blue" vlink="light blue">
+<body  bgcolor="lightpurple" link="light blue" alink="light blue" vlink="light blue">
 
 <!--Links at the top-->	
 	<h3 id="top" align="center"><font face="courier" size="4"><b>
@@ -36,9 +36,9 @@
 	</font></h1>
 	<font face="helvetica" color="black" size="3">
 		<ul>
-		    <li>My work experience includes... []</li>
-		    <li>My volunteer experience includes Gods Love We deliver, Community clean up, and English Tutoring. []</li>
-		    <li>My soft skills include communication, time management, and teamwork. []</li>
+		    <li>My work experience includes GYM Trainer Assistant</li>
+		    <li>My volunteer experience includes Gods Love We deliver, Community clean up, and English Tutoring.</li>
+		    <li>My soft skills include communication, time management, and teamwork. </li>
 		    <li>My hard skills include computer skills in github, spreadsheets, and google slides.</li>    
 		</ul>
 	</font><br>
